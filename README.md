@@ -8,7 +8,7 @@ We build an end-to-end quantitative trading bot targeting [Kalshi](https://kalsh
 
 # Credits
 
-This repository is independent of the original repository: https://github.com/nmokey/ACM-AI-Spring-2026-Prediction-Markets which includes my contributions.
+This repository is independent of the [original repository](https://github.com/nmokey/ACM-AI-Spring-2026-Prediction-Markets) which includes my contributions.
 
 ---
 
