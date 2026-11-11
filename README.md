@@ -12,8 +12,6 @@ This repository is independent of the original repository: https://github.com/nm
 
 ---
 
----
-
 ## System Architecture
 
 ```
